@@ -1,0 +1,15 @@
+rclone.conf
+*.conf
+.env
+.env.*
+*.sql
+*.sql.gz
+*.dump
+*.zip
+backups/
+temp/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
